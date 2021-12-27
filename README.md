@@ -1,4 +1,4 @@
-# MSc-Dissertation-appendix
+# MSc Dissertation appendices
 Additional appendices for the abridged version of my MSc Dissertation chosen as part of the WM-ESP
 
 Here you can find the following files:

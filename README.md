@@ -3,7 +3,7 @@ Additional appendices for the abridged version of my MSc Dissertation chosen as 
 
 Here you can find the following files:
 1. README.md
-2. Supplemental Appendix.pdf
+2. appendix.pdf
 5. calibration.do
-6. dataset.dta
+6. NLSY97.dta
 
